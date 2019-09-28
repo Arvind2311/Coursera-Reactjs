@@ -1,1 +1,1 @@
-export const baseUrl = location.origin;
+export const baseUrl = window.location.origin+'/';
