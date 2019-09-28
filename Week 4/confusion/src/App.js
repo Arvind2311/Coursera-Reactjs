@@ -9,6 +9,7 @@ const store = ConfigureStore();
 
 class App extends Component {
 
+	// Testing with Azure CI/CD Pipeline
   render() {
     return (
       <Provider store={store}>
